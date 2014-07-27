@@ -192,6 +192,9 @@
                 userLoc = locData.addr;
                 if (userLoc) {
                     $("#user_loc").text(userLoc);
+                    if (!$("#user_locerr").is(':hidden')) {
+                        $("#user_locerr").hide();
+                    }
                 }
             });
         }
