@@ -6,6 +6,10 @@
 * This is built using custom MVC framework (very basic), jQuery, HTMl, and CSS on client side.
 * It uses Google APIs like GeoCode, Places, and Directions etc.
 
+### URL
+
+http://placefinder.herokuapp.com/
+
 ### TODO
 
 ##### Technology
